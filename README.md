@@ -8,7 +8,7 @@ This plugin is part of the TDM project (http://www.tdm-project.it) and it has be
 Read more about it here:
 https://grafana.com/grafana/plugins/grafana-worldmap-panel/installation
 
-## Limits of native panel
+### Limits of native panel
 
 The original worldmap did not allow division into zones and selection of a zone, but only allowed to create circles in the map through a query, representing a value for a given area. The query in question should provide geographical coordinates.
 
