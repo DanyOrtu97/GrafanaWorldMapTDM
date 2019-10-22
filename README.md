@@ -8,18 +8,17 @@ This plugin is part of the TDM project (http://www.tdm-project.it) and it has be
 Read more about it here:
 https://grafana.com/grafana/plugins/grafana-worldmap-panel/installation
 
+## Limits of native panel
+
+The original worldmap did not allow division into zones and selection of a zone, but only allowed to create circles in the map through a query, representing a value for a given area. The query in question should provide geographical coordinates.
+
 
 ## Modified version of WorldMapPanel
 
 WorldMapTDM is a modified version of Grafana’s native worldmap panel. The goal was to show a map of Cagliari divided into zones, in this way is possible to select, using the map, an area of interest, to make comparisons between own consumption and those of the houses in the selected area.
 
 
-## Limits of native panel
-
-The original worldmap did not allow division into zones and selection of a zone, but only allowed to create circles in the map through a query, representing a value for a given area. The query in question should provide geographical coordinates.
-
-
-## What’s new?
+### What’s new?
 
 This version of WorldMap Panel presents a map of Cagliari divided into zones, in which each zone can be selected. The only query present is now used for the association between houses and zones.
 A mode selection button has also been added to allow the change of mode:
