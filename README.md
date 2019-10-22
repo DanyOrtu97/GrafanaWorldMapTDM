@@ -16,8 +16,7 @@ https://grafana.com/grafana/plugins/grafana-worldmap-panel/installation
 Modified version of WorldMapPanel
 ###################
 
-WorldMapTDM is a modified version of Grafana’s native worldmap panel. It is a part of TDM project, (link: http://www.tdm-project.it/), initiative born thanks to the collaboration between CRS4 and the University of Cagliari.
-In this case, the goal was to show a map of Cagliari divided into zones, in this way is possible to select, using the map, an area of interest, to make comparisons between own consumption and those of the houses in the selected area.
+WorldMapTDM is a modified version of Grafana’s native worldmap panel. The goal was to show a map of Cagliari divided into zones, in this way is possible to select, using the map, an area of interest, to make comparisons between own consumption and those of the houses in the selected area.
 
 ###################
 Limits of native panel
