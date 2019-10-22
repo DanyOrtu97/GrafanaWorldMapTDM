@@ -1,4 +1,4 @@
-# WorldMapTDM
+# WorldMap Panel - TDM modified version
 
 This plugin is part of the TDM project (http://www.tdm-project.it) and it has been presented during the STAG 2019 scientific conference (http://stag2019.crs4.it) with the poster "Design and Implementation of a Visualization Tool for the in-depth Analysis of the Domestic Electricity Consumption".
 
